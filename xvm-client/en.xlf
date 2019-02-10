@@ -6,7 +6,7 @@
     </header>
     <body>
       <trans-unit id="Warning">
-        <source>Warning</source>
+        <source>WarniSng</source>
       </trans-unit>
       <trans-unit id="Error">
         <source>Error</source>
