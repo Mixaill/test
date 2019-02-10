@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2">
+  <file datatype="plaintext" original="" source-language="en" target-language="ru" tool-id="xvm-l10n-converter">
+    <header>
+      <tool tool-id="xvm-l10n-converter" tool-name="XVM L10N Converter" tool-company="XVM Team" tool-version="1.0.0" />
+    </header>
+    <body>
+      <trans-unit id="Warning">
+        <source>Warning</source>
+        <target>Предупреждение</target>
+      </trans-unit>
+      <trans-unit id="Error">
+        <source>Error</source>
+        <target>Ошибка</target>
+      </trans-unit>
+      <trans-unit id="Information">
+        <source>Information</source>
+        <target>Информация</target>
+      </trans-unit>
+      <trans-unit id="OK">
+        <source>OK</source>
+        <target>OK</target>
+      </trans-unit>
+      <trans-unit id="Cancel">
+        <source>Cancel</source>
+        <target>Отмена</target>
+      </trans-unit>
+      <trans-unit id="Save">
+        <source>Save</source>
+        <target>Сохранить</target>
+      </trans-unit>
+      <trans-unit id="Remove">
+        <source>Remove</source>
+        <target>Удалить</target>
+      </trans-unit>
+      <trans-unit id="Yes">
+        <source>Yes</source>
+        <target>Да</target>
+      </trans-unit>
+      <trans-unit id="No">
+        <source>No</source>
+        <target>Нет</target>
+      </trans-unit>
+      <trans-unit id="Not available short">
+        <source>n/a</source>
+        <target>н/д</target>
+      </trans-unit>
+      <trans-unit id="from">
+        <source>from</source>
+        <target>из</target>
+      </trans-unit>
+      <trans-unit id="m">
+        <source>m</source>
+        <target>м</target>
+      </trans-unit>
+      <trans-unit id="Initialization">
+        <source>Initialization</source>
+        <target>Инициализация</target>
+      </trans-unit>
+      <trans-unit id="Ping">
+        <source>Ping</source>
+        <target>Пинг</target>
+      </trans-unit>
+      <trans-unit id="Online">
+        <source>Online</source>
+        <target>Онлайн</target>
+      </trans-unit>
+      <trans-unit id="shot">
+        <source>shot</source>
+        <target>атака</target>
+      </trans-unit>
+      <trans-unit id="fire">
+        <source>fire</source>
+        <target>пожар</target>
+      </trans-unit>
+      <trans-unit id="ramming">
+        <source>ramming</source>
+        <target>таран</target>
+      </trans-unit>
+      <trans-unit id="world_collision">
+        <source>falling</source>
+        <target>падение</target>
+      </trans-unit>
+      <trans-unit id="death_zone">
+        <source>death zone</source>
+        <target>death zone</target>
+      </trans-unit>
+      <trans-unit id="Hits">
+        <source>Hits</source>
+        <target>Пробитий</target>
+      </trans-unit>
+      <trans-unit id="Total">
+        <source>Total</source>
+        <target>Всего</target>
+      </trans-unit>
+      <trans-unit id="Last">
+        <source>Last</source>
+        <target>Последний</target>
+      </trans-unit>
+      <trans-unit id="enemyBaseCapture">
+        <source>Base{0} capture by allies!</source>
+        <target>Захват базы{0} союзниками!</target>
+      </trans-unit>
+      <trans-unit id="enemyBaseCaptured">
+        <source>Base{0} captured by allies!</source>
+        <target>База{0} захвачена союзниками!</target>
+      </trans-unit>
+      <trans-unit id="allyBaseCapture">
+        <source>Base{0} capture by enemies!</source>
+        <target>Захват базы{0} врагами!</target>
+      </trans-unit>
+      <trans-unit id="allyBaseCaptured">
+        <source>Base{0} captured by enemies!</source>
+        <target>База{0} захвачена врагами!</target>
+      </trans-unit>
+      <trans-unit id="avgDamage">
+        <source>Avg damage</source>
+        <target>Средний урон</target>
+      </trans-unit>
+      <trans-unit id="mainGun">
+        <source>High caliber</source>
+        <target>Основной калибр</target>
+      </trans-unit>
+      <trans-unit id="engine">
+        <source>engine</source>
+        <target>двигатель</target>
+      </trans-unit>
+      <trans-unit id="ammo_bay">
+        <source>ammo bay</source>
+        <target>боеукладка</target>
+      </trans-unit>
+      <trans-unit id="fuel_tank">
+        <source>fuel tank</source>
+        <target>топливный бак</target>
+      </trans-unit>
+      <trans-unit id="radio">
+        <source>radio</source>
+        <target>радиостанция</target>
+      </trans-unit>
+      <trans-unit id="left_track">
+        <source>left track</source>
+        <target>левая гусеница</target>
+      </trans-unit>
+      <trans-unit id="right_track">
+        <source>right track</source>
+        <target>правая гусеница</target>
+      </trans-unit>
+      <trans-unit id="gun">
+        <source>gun</source>
+        <target>орудие</target>
+      </trans-unit>
+      <trans-unit id="turret_rotator">
+        <source>turret rotator</source>
+        <target>вращение башни</target>
+      </trans-unit>
+      <trans-unit id="surveying_device">
+        <source>surveying device</source>
+        <target>приборы наблюдения</target>
+      </trans-unit>
+      <trans-unit id="commander">
+        <source>commander</source>
+        <target>командир экипажа</target>
+      </trans-unit>
+      <trans-unit id="driver">
+        <source>driver</source>
+        <target>механик-водитель</target>
+      </trans-unit>
+      <trans-unit id="radioman">
+        <source>radioman</source>
+        <target>радист</target>
+      </trans-unit>
+      <trans-unit id="gunner">
+        <source>gunner</source>
+        <target>наводчик</target>
+      </trans-unit>
+      <trans-unit id="loader">
+        <source>loader</source>
+        <target>заряжающий</target>
+      </trans-unit>
+      <trans-unit id="sec">
+        <source>sec</source>
+        <target>сек</target>
+      </trans-unit>
+      <trans-unit id="reloaded">
+        <source>reloaded</source>
+        <target>перезарядился</target>
+      </trans-unit>
+      <trans-unit id="drowning">
+        <source>drowning</source>
+        <target>затоплен</target>
+      </trans-unit>
+      <trans-unit id="armor_piercing">
+        <source>AP</source>
+        <target>ББ</target>
+      </trans-unit>
+      <trans-unit id="high_explosive">
+        <source>HE</source>
+        <target>ОФ</target>
+      </trans-unit>
+      <trans-unit id="armor_piercing_cr">
+        <source>APCR</source>
+        <target>БП</target>
+      </trans-unit>
+      <trans-unit id="armor_piercing_he">
+        <source>HESH</source>
+        <target>ХФ</target>
+      </trans-unit>
+      <trans-unit id="hollow_charge">
+        <source>HEAT</source>
+        <target>КС</target>
+      </trans-unit>
+      <trans-unit id="intermediate_ricochet">
+        <source>ricochet</source>
+        <target>рикошет</target>
+      </trans-unit>
+      <trans-unit id="final_ricochet">
+        <source>ricochet</source>
+        <target>рикошет</target>
+      </trans-unit>
+      <trans-unit id="armor_not_pierced">
+        <source>bounce</source>
+        <target>не пробито</target>
+      </trans-unit>
+      <trans-unit id="armor_pierced_no_damage">
+        <source>blocked</source>
+        <target>без урона</target>
+      </trans-unit>
+      <trans-unit id="turret">
+        <source>turret</source>
+        <target>башня</target>
+      </trans-unit>
+      <trans-unit id="hull">
+        <source>hull</source>
+        <target>корпус</target>
+      </trans-unit>
+      <trans-unit id="chassis">
+        <source>chassis</source>
+        <target>шасси</target>
+      </trans-unit>
+      <trans-unit id="Hit percent">
+        <source>Hit percent</source>
+        <target>Процент попаданий</target>
+      </trans-unit>
+      <trans-unit id="Damage (assisted / own)">
+        <source>Damage (assisted / own)</source>
+        <target>Урон (с вашей помощью / свой)</target>
+      </trans-unit>
+      <trans-unit id="BR_xpCrew">
+        <source>crew</source>
+        <target>экипажу</target>
+      </trans-unit>
+      <trans-unit id="Friend">
+        <source>Friend</source>
+        <target>Друг</target>
+      </trans-unit>
+      <trans-unit id="Ignored">
+        <source>Ignored</source>
+        <target>Игнор</target>
+      </trans-unit>
+      <trans-unit id="unknown">
+        <source>unknown</source>
+        <target>неизвестно</target>
+      </trans-unit>
+      <trans-unit id="Fights">
+        <source>Fights</source>
+        <target>Боёв</target>
+      </trans-unit>
+      <trans-unit id="Wins">
+        <source>Wins</source>
+        <target>Побед</target>
+      </trans-unit>
+      <trans-unit id="Data was updated at">
+        <source>Data was updated at</source>
+        <target>Данные были обновлены</target>
+      </trans-unit>
+      <trans-unit id="Load statistics">
+        <source>Load statistics</source>
+        <target>Загрузить статистику</target>
+      </trans-unit>
+      <trans-unit id="General stats">
+        <source>General stats</source>
+        <target>Общая статистика</target>
+      </trans-unit>
+      <trans-unit id="Summary">
+        <source>Summary</source>
+        <target>Общие результаты</target>
+      </trans-unit>
+      <trans-unit id="Avg level">
+        <source>Avg level</source>
+        <target>Средний уровень</target>
+      </trans-unit>
+      <trans-unit id="WTR">
+        <source>WTR</source>
+        <target>WTR</target>
+      </trans-unit>
+      <trans-unit id="WN8">
+        <source>WN8</source>
+        <target>WN8</target>
+      </trans-unit>
+      <trans-unit id="EFF">
+        <source>EFF</source>
+        <target>РЭ</target>
+      </trans-unit>
+      <trans-unit id="WGR">
+        <source>WGR</source>
+        <target>ЛРИ</target>
+      </trans-unit>
+      <trans-unit id="updated">
+        <source>updated</source>
+        <target>обновлено</target>
+      </trans-unit>
+      <trans-unit id="toWithSpaces">
+        <source> to </source>
+        <target> до </target>
+      </trans-unit>
+      <trans-unit id="avg">
+        <source>avg</source>
+        <target>ср.</target>
+      </trans-unit>
+      <trans-unit id="top">
+        <source>top</source>
+        <target>топ</target>
+      </trans-unit>
+      <trans-unit id="draws">
+        <source>draws</source>
+        <target>ничьих</target>
+      </trans-unit>
+      <trans-unit id="Maximum damage">
+        <source>Maximum damage</source>
+        <target>Максимальный урон</target>
+      </trans-unit>
+      <trans-unit id="Specific damage (Avg dmg / HP)">
+        <source>Specific damage (Avg dmg / HP)</source>
+        <target>Уд. урон (ср. урон / прочность)</target>
+      </trans-unit>
+      <trans-unit id="Capture points">
+        <source>Capture points</source>
+        <target>Очки захвата</target>
+      </trans-unit>
+      <trans-unit id="Defence points">
+        <source>Defence points</source>
+        <target>Очки защиты</target>
+      </trans-unit>
+      <trans-unit id="Filter">
+        <source>Filter</source>
+        <target>Фильтр</target>
+      </trans-unit>
+      <trans-unit id="Extra data (WoT 0.8.8+)">
+        <source>Extra data (WoT 0.8.8+)</source>
+        <target>Доп. данные (WoT 0.8.8+)</target>
+      </trans-unit>
+      <trans-unit id="Average battle time">
+        <source>Average battle time</source>
+        <target>Среднее время жизни в бою</target>
+      </trans-unit>
+      <trans-unit id="Average battle time per day">
+        <source>Average battle time per day</source>
+        <target>Среднее время игры в день</target>
+      </trans-unit>
+      <trans-unit id="Battles after 0.8.8">
+        <source>Battles after 0.8.8</source>
+        <target>Боев после 0.8.8</target>
+      </trans-unit>
+      <trans-unit id="Average experience">
+        <source>Average experience</source>
+        <target>Средний опыт</target>
+      </trans-unit>
+      <trans-unit id="Average experience without premium">
+        <source>Average experience without premium</source>
+        <target>Средний опыт без премиума</target>
+      </trans-unit>
+      <trans-unit id="Average distance driven per battle">
+        <source>Average distance driven per battle</source>
+        <target>В среднем пройдено км за бой</target>
+      </trans-unit>
+      <trans-unit id="Average woodcuts per battle">
+        <source>Average woodcuts per battle</source>
+        <target>В среднем повалено деревьев за бой</target>
+      </trans-unit>
+      <trans-unit id="Average damage assisted">
+        <source>Average damage assisted</source>
+        <target>Средний урон с вашей помощью</target>
+      </trans-unit>
+      <trans-unit id="    by tracking">
+        <source>    by tracking</source>
+        <target>    после сбития гусеницы</target>
+      </trans-unit>
+      <trans-unit id="    by spotting">
+        <source>    by spotting</source>
+        <target>    по разведданным</target>
+      </trans-unit>
+      <trans-unit id="Average HE shells fired (splash)">
+        <source>Average HE shells fired (splash)</source>
+        <target>Средний урон фугасами (сплэш)</target>
+      </trans-unit>
+      <trans-unit id="Average HE shells received (splash)">
+        <source>Average HE shells received (splash)</source>
+        <target>Средний полученный урон фугасами</target>
+      </trans-unit>
+      <trans-unit id="Average penetrations per battle">
+        <source>Average penetrations per battle</source>
+        <target>В среднем пробитий за бой</target>
+      </trans-unit>
+      <trans-unit id="Average hits received">
+        <source>Average hits received</source>
+        <target>В среднем получено попаданий</target>
+      </trans-unit>
+      <trans-unit id="Average penetrations received">
+        <source>Average penetrations received</source>
+        <target>В среднем получено пробитий</target>
+      </trans-unit>
+      <trans-unit id="Average ricochets received">
+        <source>Average ricochets received</source>
+        <target>В среднем получено рикошетов</target>
+      </trans-unit>
+      <trans-unit id="better than">
+        <source>better than</source>
+        <target>лучше, чем</target>
+      </trans-unit>
+      <trans-unit id="PutOwnCrew">
+        <source>Put own crew</source>
+        <target>Родной экипаж</target>
+      </trans-unit>
+      <trans-unit id="PutBestCrew">
+        <source>Put best crew</source>
+        <target>Лучший экипаж</target>
+      </trans-unit>
+      <trans-unit id="PutClassCrew">
+        <source>Put same class crew</source>
+        <target>Экипаж того же класса</target>
+      </trans-unit>
+      <trans-unit id="PutPreviousCrew">
+        <source>Put previous crew</source>
+        <target>Предыдущий экипаж</target>
+      </trans-unit>
+      <trans-unit id="DropAllCrew">
+        <source>Drop all crew</source>
+        <target>Высадить весь экипаж</target>
+      </trans-unit>
+      <trans-unit id="noSkills">
+        <source>No skills</source>
+        <target>Нет умений</target>
+      </trans-unit>
+      <trans-unit id="gun_reload_time/actual">
+        <source>Actual gun reload time</source>
+        <target>Расчетное время перезарядки орудия</target>
+      </trans-unit>
+      <trans-unit id="view_range/base">
+        <source>base</source>
+        <target>базовый</target>
+      </trans-unit>
+      <trans-unit id="view_range/actual">
+        <source>actual</source>
+        <target>расчетный</target>
+      </trans-unit>
+      <trans-unit id="view_range/stereoscope">
+        <source>with stereoscope</source>
+        <target>со стереотрубой</target>
+      </trans-unit>
+      <trans-unit id="radio_range/base">
+        <source>base</source>
+        <target>базовая</target>
+      </trans-unit>
+      <trans-unit id="radio_range/actual">
+        <source>actual</source>
+        <target>расчетная</target>
+      </trans-unit>
+      <trans-unit id="lowAmmo">
+        <source>Low ammo</source>
+        <target>Мало снарядов</target>
+      </trans-unit>
+      <trans-unit id="shootingRadius">
+        <source>Shooting radius</source>
+        <target>Дальность стрельбы</target>
+      </trans-unit>
+      <trans-unit id="pitchLimitsSide">
+        <source>Elevation arc (side)</source>
+        <target>Углы вертикальной наводки сбоку (град)</target>
+      </trans-unit>
+      <trans-unit id="pitchLimitsRear">
+        <source>Elevation arc (rear)</source>
+        <target>Углы вертикальной наводки сзади (град)</target>
+      </trans-unit>
+      <trans-unit id="terrainResistance">
+        <source>Terrain resistance (hard/medium/soft)</source>
+        <target>Сопротивление грунтов (тверд./средн./мягк.)</target>
+      </trans-unit>
+      <trans-unit id="gravity">
+        <source>Gravity</source>
+        <target>Гравитация</target>
+      </trans-unit>
+      <trans-unit id="shellSpeed">
+        <source>Shell speed</source>
+        <target>Скорость снаряда</target>
+      </trans-unit>
+      <trans-unit id="general">
+        <source>General</source>
+        <target>Общие</target>
+      </trans-unit>
+      <trans-unit id="armor">
+        <source>Armor</source>
+        <target>Бронирование</target>
+      </trans-unit>
+      <trans-unit id="firepower">
+        <source>Firepower</source>
+        <target>Огневая мощь</target>
+      </trans-unit>
+      <trans-unit id="mobility">
+        <source>Mobility</source>
+        <target>Подвижность</target>
+      </trans-unit>
+      <trans-unit id="crew">
+        <source>Crew</source>
+        <target>Экипаж</target>
+      </trans-unit>
+      <trans-unit id="(m/sec)">
+        <source>(m/sec)</source>
+        <target>(м/сек)</target>
+      </trans-unit>
+      <trans-unit id="(sec)">
+        <source>(sec)</source>
+        <target>(сек)</target>
+      </trans-unit>
+      <trans-unit id="(m)">
+        <source>(m)</source>
+        <target>(м)</target>
+      </trans-unit>
+      <trans-unit id="Squad battle tiers">
+        <source>Squad battle tiers</source>
+        <target>Уровень боев взвода</target>
+      </trans-unit>
+      <trans-unit id="Squad tanks battle tiers difference">
+        <source>Squad tanks battle tiers difference</source>
+        <target>Разница уровней боев танков взвода</target>
+      </trans-unit>
+      <trans-unit id="Vehicle">
+        <source>Vehicle</source>
+        <target>Танк</target>
+      </trans-unit>
+      <trans-unit id="Battle tiers">
+        <source>Battle tiers</source>
+        <target>Уровень боёв</target>
+      </trans-unit>
+      <trans-unit id="Type">
+        <source>Type</source>
+        <target>Тип</target>
+      </trans-unit>
+      <trans-unit id="Nation">
+        <source>Nation</source>
+        <target>Нация</target>
+      </trans-unit>
+      <trans-unit id="ussr">
+        <source>USSR</source>
+        <target>СССР</target>
+      </trans-unit>
+      <trans-unit id="germany">
+        <source>Germany</source>
+        <target>Германия</target>
+      </trans-unit>
+      <trans-unit id="usa">
+        <source>USA</source>
+        <target>США</target>
+      </trans-unit>
+      <trans-unit id="france">
+        <source>France</source>
+        <target>Франция</target>
+      </trans-unit>
+      <trans-unit id="uk">
+        <source>UK</source>
+        <target>Великобритания</target>
+      </trans-unit>
+      <trans-unit id="china">
+        <source>China</source>
+        <target>Китай</target>
+      </trans-unit>
+      <trans-unit id="japan">
+        <source>Japan</source>
+        <target>Япония</target>
+      </trans-unit>
+      <trans-unit id="czech">
+        <source>Czech</source>
+        <target>Чехословакия</target>
+      </trans-unit>
+      <trans-unit id="poland">
+        <source>Poland</source>
+        <target>Польша</target>
+      </trans-unit>
+      <trans-unit id="sweden">
+        <source>Sweden</source>
+        <target>Швеция</target>
+      </trans-unit>
+      <trans-unit id="italy">
+        <source>Italy</source>
+        <target>Италия</target>
+      </trans-unit>
+      <trans-unit id="HT">
+        <source>HT</source>
+        <target>ТТ</target>
+      </trans-unit>
+      <trans-unit id="MT">
+        <source>MT</source>
+        <target>СТ</target>
+      </trans-unit>
+      <trans-unit id="LT">
+        <source>LT</source>
+        <target>ЛТ</target>
+      </trans-unit>
+      <trans-unit id="TD">
+        <source>TD</source>
+        <target>ПТ</target>
+      </trans-unit>
+      <trans-unit id="SPG">
+        <source>SPG</source>
+        <target>САУ</target>
+      </trans-unit>
+      <trans-unit id="blownUp">
+        <source>Blown-up!</source>
+        <target>Взрыв БК!</target>
+      </trans-unit>
+      <trans-unit id="ver/currentVersion">
+        <source>XVM {0} ({1})</source>
+        <target>XVM {0} ({1})</target>
+      </trans-unit>
+      <trans-unit id="ver/newVersion">
+        <source>Update available:&lt;tab/&gt;&lt;a href='#XVM_SITE_DL#'&gt;&lt;font color='#00FF00'&gt;v{0}&lt;/font&gt;&lt;/a&gt;
+{1}</source>
+        <target>Доступно обновление:&lt;tab/&gt;&lt;a href='#XVM_SITE_DL#'&gt;&lt;font color='#00FF00'&gt;v{0}&lt;/font&gt;&lt;/a&gt;
+{1}</target>
+      </trans-unit>
+      <trans-unit id="xvmsvc/not_connected">
+        <source>&lt;font color='#FFFF00'&gt;no connection to XVM server&lt;/font&gt;</source>
+        <target>&lt;font color='#FFFF00'&gt;нет подключения к серверу XVM&lt;/font&gt;</target>
+      </trans-unit>
+      <trans-unit id="token/services_unavailable">
+        <source>Network services unavailable.&amp;nbsp;&amp;nbsp;&lt;a href='#XVM_SITE_UNAVAILABLE#'&gt;&lt;font size='11'&gt;more info&lt;/font&gt;&lt;/a&gt;</source>
+        <target>Сетевые сервисы недоступны.&amp;nbsp;&amp;nbsp;&lt;a href='#XVM_SITE_UNAVAILABLE#'&gt;&lt;font size='11'&gt;подробнее&lt;/font&gt;&lt;/a&gt;</target>
+      </trans-unit>
+      <trans-unit id="token/services_inactive">
+        <source>Network services inactive.&amp;nbsp;&amp;nbsp;&lt;a href='#XVM_SITE_INACTIVE#'&gt;&lt;font size='11'&gt;enable&lt;/font&gt;&lt;/a&gt;</source>
+        <target>Сетевые сервисы неактивны.&amp;nbsp;&amp;nbsp;&lt;a href='#XVM_SITE_INACTIVE#'&gt;&lt;font size='11'&gt;включить&lt;/font&gt;&lt;/a&gt;</target>
+      </trans-unit>
+      <trans-unit id="token/blocked">
+        <source>Status: &lt;font color='#FF0000'&gt;Blocked&lt;/font&gt;&amp;nbsp;&amp;nbsp;&lt;a href='#XVM_SITE_BLOCKED#'&gt;&lt;font size='11'&gt;more info&lt;/font&gt;&lt;/a&gt;</source>
+        <target>Статус: &lt;font color='#FF0000'&gt;Заблокирован&lt;/font&gt;&amp;nbsp;&amp;nbsp;&lt;a href='#XVM_SITE_BLOCKED#'&gt;&lt;font size='11'&gt;подробнее&lt;/font&gt;&lt;/a&gt;</target>
+      </trans-unit>
+      <trans-unit id="token/active">
+        <source>Status:&lt;tab/&gt;&lt;font color='#00FF00'&gt;Active&lt;/font&gt;</source>
+        <target>Статус:&lt;tab/&gt;&lt;font color='#00FF00'&gt;Активен&lt;/font&gt;</target>
+      </trans-unit>
+      <trans-unit id="token/time_left">
+        <source>&lt;tab/&gt;&lt;font color='#EEEEEE'&gt;{0}d. {1}h. {2}m.&lt;/font&gt;</source>
+        <target>&lt;tab/&gt;&lt;font color='#EEEEEE'&gt;{0}д. {1}ч. {2}м.&lt;/font&gt;</target>
+      </trans-unit>
+      <trans-unit id="token/time_left_warn">
+        <source>&lt;tab/&gt;&lt;font color='#EEEEEE'&gt;{0}d. {1}h. {2}m.&lt;/font&gt;
+&lt;tab/&gt;&lt;a href='#XVM_SITE#'&gt;Prolong&lt;/a&gt;</source>
+        <target>&lt;tab/&gt;&lt;font color='#EEEEEE'&gt;{0}д. {1}ч. {2}м.&lt;/font&gt;
+&lt;tab/&gt;&lt;a href='#XVM_SITE#'&gt;Продлить&lt;/a&gt;</target>
+      </trans-unit>
+      <trans-unit id="token/unknown_status">
+        <source>Unknown status</source>
+        <target>Неизвестный статус</target>
+      </trans-unit>
+      <trans-unit id="lobby/header/gold_locked_tooltip">
+        <source>Gold is locked</source>
+        <target>Золото заблокировано</target>
+      </trans-unit>
+      <trans-unit id="lobby/header/gold_unlocked_tooltip">
+        <source>Gold is unlocked</source>
+        <target>Золото разблокировано</target>
+      </trans-unit>
+      <trans-unit id="lobby/header/freexp_locked_tooltip">
+        <source>Free XP is locked</source>
+        <target>Свободный опыт заблокирован</target>
+      </trans-unit>
+      <trans-unit id="lobby/header/freexp_unlocked_tooltip">
+        <source>Free XP is unlocked</source>
+        <target>Свободный опыт разблокирован</target>
+      </trans-unit>
+      <trans-unit id="lobby/crew/enable_prev_crew">
+        <source>Automatically return crew</source>
+        <target>Автоматический возврат экипажа</target>
+      </trans-unit>
+      <trans-unit id="lobby/crew/enable_prev_crew_tooltip">
+        <source>&lt;b&gt;&lt;font color='#FDF4CE'&gt;{{l10n:lobby/crew/enable_prev_crew}}&lt;/font&gt;&lt;/b&gt;
+Automatically return the crew that fought
+in this vehicle in the previous battle</source>
+        <target>&lt;b&gt;&lt;font color='#FDF4CE'&gt;{{l10n:lobby/crew/enable_prev_crew}}&lt;/font&gt;&lt;/b&gt;
+Автоматически вернуть экипаж, который в предыдущем
+бою был на данной машине</target>
+      </trans-unit>
+      <trans-unit id="profile/xvm_xte_tooltip">
+        <source>&lt;b&gt;&lt;font color='#FDF4CE' size='16'&gt;xTE&lt;/font&gt;&lt;/b&gt;
+Per-vehicle efficiency
+More info at &lt;font color='#FDF4CE'&gt;https://modxvm.com/ratings/&lt;/font&gt;</source>
+        <target>&lt;b&gt;&lt;font color='#FDF4CE' size='16'&gt;xTE&lt;/font&gt;&lt;/b&gt;
+Эффективность по танку
+Подробная информация на &lt;font color='#FDF4CE'&gt;https://modxvm.com/ratings/&lt;/font&gt;</target>
+      </trans-unit>
+      <trans-unit id="profile/xvm_xte_extended_tooltip">
+        <source>&lt;textformat tabstops='[20, 85, 140]'&gt;{{l10n:profile/xvm_xte_tooltip}}
+
+Reference values:
+		damage	frags
+	Current:	&lt;font color='#FDF4CE' size='14'&gt;{0}&lt;/font&gt;	&lt;font color='#FDF4CE' size='14'&gt;{1}&lt;/font&gt;
+	Average:	&lt;font color='#FDF4CE' size='14'&gt;{2}&lt;/font&gt;	&lt;font color='#FDF4CE' size='14'&gt;{3}&lt;/font&gt;
+	Top:	&lt;font color='#FDF4CE' size='14'&gt;{4}&lt;/font&gt;	&lt;font color='#FDF4CE' size='14'&gt;{5}&lt;/font&gt;</source>
+        <target>&lt;textformat tabstops='[20, 85, 140]'&gt;{{l10n:profile/xvm_xte_tooltip}}
+
+Эталонные значения:
+		урон	фраги
+	Текущие:	&lt;font color='#FDF4CE' size='14'&gt;{0}&lt;/font&gt;	&lt;font color='#FDF4CE' size='14'&gt;{1}&lt;/font&gt;
+	Средние:	&lt;font color='#FDF4CE' size='14'&gt;{2}&lt;/font&gt;	&lt;font color='#FDF4CE' size='14'&gt;{3}&lt;/font&gt;
+	Топовые:	&lt;font color='#FDF4CE' size='14'&gt;{4}&lt;/font&gt;	&lt;font color='#FDF4CE' size='14'&gt;{5}&lt;/font&gt;</target>
+      </trans-unit>
+      <trans-unit id="Normal">
+        <source>Normal</source>
+        <target>Обычная</target>
+      </trans-unit>
+      <trans-unit id="NormalTooltipHeader">
+        <source>Normal Vehicles</source>
+        <target>Обычная техника</target>
+      </trans-unit>
+      <trans-unit id="NormalTooltipBody">
+        <source>Show/hide normal (non-premium) vehicles.</source>
+        <target>Включить/отключить отображение обычной (не премиум) техники.</target>
+      </trans-unit>
+      <trans-unit id="NonElite">
+        <source>Non elite</source>
+        <target>Не элитная</target>
+      </trans-unit>
+      <trans-unit id="NonEliteTooltipHeader">
+        <source>Non Elite Vehicles</source>
+        <target>Не элитная техника</target>
+      </trans-unit>
+      <trans-unit id="NonEliteTooltipBody">
+        <source>Show/hide vehicles with not all modules and technical branches researched.</source>
+        <target>Включить/отключить отображение техники, на которой исследованы не все модули и следующие в ветке развития машины.</target>
+      </trans-unit>
+      <trans-unit id="CompleteCrew">
+        <source>Complete crew</source>
+        <target>Полный экипаж</target>
+      </trans-unit>
+      <trans-unit id="CompleteCrewTooltipHeader">
+        <source>Complete Crew</source>
+        <target>Полный экипаж</target>
+      </trans-unit>
+      <trans-unit id="CompleteCrewTooltipBody">
+        <source>Show/hide vehicles with complete crew.</source>
+        <target>Включить/отключить отображение техники с полным экипажем.</target>
+      </trans-unit>
+      <trans-unit id="NoMaster">
+        <source>No master</source>
+        <target>Нет мастера</target>
+      </trans-unit>
+      <trans-unit id="NoMasterTooltipHeader">
+        <source>No Master</source>
+        <target>Нет мастера</target>
+      </trans-unit>
+      <trans-unit id="NoMasterTooltipBody">
+        <source>Show/hide vehicles without "Ace Tanker" mastery badge.</source>
+        <target>Включить/отключить отображение техники без знаки классности «Мастер».</target>
+      </trans-unit>
+      <trans-unit id="ReserveFilter">
+        <source>Reserve</source>
+        <target>Резерв</target>
+      </trans-unit>
+      <trans-unit id="ReserveFilterTooltipHeader">
+        <source>Reserve</source>
+        <target>Резерв</target>
+      </trans-unit>
+      <trans-unit id="ReserveFilterTooltipBody">
+        <source>Show/hide reserved vehicles.</source>
+        <target>Включить/отключить отображение резервной техники.</target>
+      </trans-unit>
+      <trans-unit id="check_reserve_menu">
+        <source>Set as reserve</source>
+        <target>Отметить как «резерв»</target>
+      </trans-unit>
+      <trans-unit id="uncheck_reserve_menu">
+        <source>Uncheck Reserve label</source>
+        <target>Снять отметку «резерв»</target>
+      </trans-unit>
+      <trans-unit id="reserve_confirm_title">
+        <source>Hide tank</source>
+        <target>Спрятать танк</target>
+      </trans-unit>
+      <trans-unit id="reserve_confirm_message">
+        <source>Are you sure you want to mark the tank as reserve? It will be available via filters in carousel.</source>
+        <target>Вы уверены что хотите пометить танк как резерв? Он будет доступен через фильтры карусели.</target>
+      </trans-unit>
+      <trans-unit id="Used slots">
+        <source>Used slots</source>
+        <target>Занято слотов</target>
+      </trans-unit>
+      <trans-unit id="Network services unavailable">
+        <source>Network services unavailable</source>
+        <target>Сетевые сервисы недоступны</target>
+      </trans-unit>
+      <trans-unit id="Error loading comments">
+        <source>Error loading comments</source>
+        <target>Ошибка загрузки комментариев</target>
+      </trans-unit>
+      <trans-unit id="Error saving comments">
+        <source>Error saving comments</source>
+        <target>Ошибка сохранения комментариев</target>
+      </trans-unit>
+      <trans-unit id="Comments disabled">
+        <source>Comments disabled</source>
+        <target>Комментарии отключены</target>
+      </trans-unit>
+      <trans-unit id="Edit data">
+        <source>Edit data</source>
+        <target>Изменить данные</target>
+      </trans-unit>
+      <trans-unit id="Nick">
+        <source>Nick</source>
+        <target>Имя</target>
+      </trans-unit>
+      <trans-unit id="Group">
+        <source>Group</source>
+        <target>Группа</target>
+      </trans-unit>
+      <trans-unit id="Comment">
+        <source>Comment</source>
+        <target>Комментарий</target>
+      </trans-unit>
+      <trans-unit id="Destroyed">
+        <source>Destroyed</source>
+        <target>Уничтожен</target>
+      </trans-unit>
+      <trans-unit id="No data">
+        <source>No data</source>
+        <target>Нет данных</target>
+      </trans-unit>
+      <trans-unit id="Not ready">
+        <source>Not ready</source>
+        <target>Не готов</target>
+      </trans-unit>
+      <trans-unit id="Hide with honors">
+        <source>Hide with honors</source>
+        <target>Скрыть с отличием</target>
+      </trans-unit>
+      <trans-unit id="Started">
+        <source>Started</source>
+        <target>Выполняется</target>
+      </trans-unit>
+      <trans-unit id="Incomplete">
+        <source>Incomplete</source>
+        <target>Незавершенные</target>
+      </trans-unit>
+      <trans-unit id="XVM config reloaded">
+        <source>XVM config reloaded</source>
+        <target>Конфиг XVM перезагружен</target>
+      </trans-unit>
+      <trans-unit id="Config file xvm.xc was not found, using the built-in config">
+        <source>Config file xvm.xc was not found, using the built-in config</source>
+        <target>Файл конфигурации xvm.xc не найден, используем встроенную конфигурацию</target>
+      </trans-unit>
+      <trans-unit id="Error loading XVM config">
+        <source>Error loading XVM config</source>
+        <target>Ошибка загрузки конфига XVM</target>
+      </trans-unit>
+      <trans-unit id="bootcamp_workaround_title">
+        <source>Warning</source>
+        <target>Предупреждение</target>
+      </trans-unit>
+      <trans-unit id="bootcamp_workaround_message">
+        <source>Currently XVM is not compatible with the "boot camp" game mode.
+
+To enter the "boot camp" mode, you must restart the World of Tanks client in safe mode, which does not load modifications.
+
+Do you want to restart World of Tanks without mods right now?</source>
+        <target>В настоящий момент модификация XVM не совместима с режимом «учебный полигон».
+
+Для входа в режим «учебный полигон» необходимо перезапустить клиент World of Tanks в безопасном режиме, при использовании которого не происходит загрузка модификаций.
+
+Вы хотите перезапустить игру без модификаций прямо сейчас?</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

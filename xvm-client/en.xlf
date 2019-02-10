@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2">
+  <file datatype="plaintext" original="" source-language="en" tool-id="xvm-l10n-converter">
+    <header>
+      <tool tool-id="xvm-l10n-converter" tool-name="XVM L10N Converter" tool-company="XVM Team" tool-version="1.0.0" />
+    </header>
+    <body>
+      <trans-unit id="Warning">
+        <source>Warning</source>
+      </trans-unit>
+      <trans-unit id="Error">
+        <source>Error</source>
+      </trans-unit>
+      <trans-unit id="Information">
+        <source>Information</source>
+      </trans-unit>
+      <trans-unit id="OK">
+        <source>OK</source>
+      </trans-unit>
+      <trans-unit id="Cancel">
+        <source>Cancel</source>
+      </trans-unit>
+      <trans-unit id="Save">
+        <source>Save</source>
+      </trans-unit>
+      <trans-unit id="Remove">
+        <source>Remove</source>
+      </trans-unit>
+      <trans-unit id="Yes">
+        <source>Yes</source>
+      </trans-unit>
+      <trans-unit id="No">
+        <source>No</source>
+      </trans-unit>
+      <trans-unit id="Not available short">
+        <source>n/a</source>
+      </trans-unit>
+      <trans-unit id="from">
+        <source>from</source>
+      </trans-unit>
+      <trans-unit id="m">
+        <source>m</source>
+      </trans-unit>
+      <trans-unit id="Initialization">
+        <source>Initialization</source>
+      </trans-unit>
+      <trans-unit id="Ping">
+        <source>Ping</source>
+      </trans-unit>
+      <trans-unit id="Online">
+        <source>Online</source>
+      </trans-unit>
+      <trans-unit id="shot">
+        <source>shot</source>
+      </trans-unit>
+      <trans-unit id="fire">
+        <source>fire</source>
+      </trans-unit>
+      <trans-unit id="ramming">
+        <source>ramming</source>
+      </trans-unit>
+      <trans-unit id="world_collision">
+        <source>falling</source>
+      </trans-unit>
+      <trans-unit id="death_zone">
+        <source>death zone</source>
+      </trans-unit>
+      <trans-unit id="Hits">
+        <source>Hits</source>
+      </trans-unit>
+      <trans-unit id="Total">
+        <source>Total</source>
+      </trans-unit>
+      <trans-unit id="Last">
+        <source>Last</source>
+      </trans-unit>
+      <trans-unit id="enemyBaseCapture">
+        <source>Base{0} capture by allies!</source>
+      </trans-unit>
+      <trans-unit id="enemyBaseCaptured">
+        <source>Base{0} captured by allies!</source>
+      </trans-unit>
+      <trans-unit id="allyBaseCapture">
+        <source>Base{0} capture by enemies!</source>
+      </trans-unit>
+      <trans-unit id="allyBaseCaptured">
+        <source>Base{0} captured by enemies!</source>
+      </trans-unit>
+      <trans-unit id="avgDamage">
+        <source>Avg damage</source>
+      </trans-unit>
+      <trans-unit id="mainGun">
+        <source>High caliber</source>
+      </trans-unit>
+      <trans-unit id="engine">
+        <source>engine</source>
+      </trans-unit>
+      <trans-unit id="ammo_bay">
+        <source>ammo bay</source>
+      </trans-unit>
+      <trans-unit id="fuel_tank">
+        <source>fuel tank</source>
+      </trans-unit>
+      <trans-unit id="radio">
+        <source>radio</source>
+      </trans-unit>
+      <trans-unit id="left_track">
+        <source>left track</source>
+      </trans-unit>
+      <trans-unit id="right_track">
+        <source>right track</source>
+      </trans-unit>
+      <trans-unit id="gun">
+        <source>gun</source>
+      </trans-unit>
+      <trans-unit id="turret_rotator">
+        <source>turret rotator</source>
+      </trans-unit>
+      <trans-unit id="surveying_device">
+        <source>surveying device</source>
+      </trans-unit>
+      <trans-unit id="commander">
+        <source>commander</source>
+      </trans-unit>
+      <trans-unit id="driver">
+        <source>driver</source>
+      </trans-unit>
+      <trans-unit id="radioman">
+        <source>radioman</source>
+      </trans-unit>
+      <trans-unit id="gunner">
+        <source>gunner</source>
+      </trans-unit>
+      <trans-unit id="loader">
+        <source>loader</source>
+      </trans-unit>
+      <trans-unit id="sec">
+        <source>sec</source>
+      </trans-unit>
+      <trans-unit id="reloaded">
+        <source>reloaded</source>
+      </trans-unit>
+      <trans-unit id="drowning">
+        <source>drowning</source>
+      </trans-unit>
+      <trans-unit id="armor_piercing">
+        <source>AP</source>
+      </trans-unit>
+      <trans-unit id="high_explosive">
+        <source>HE</source>
+      </trans-unit>
+      <trans-unit id="armor_piercing_cr">
+        <source>APCR</source>
+      </trans-unit>
+      <trans-unit id="armor_piercing_he">
+        <source>HESH</source>
+      </trans-unit>
+      <trans-unit id="hollow_charge">
+        <source>HEAT</source>
+      </trans-unit>
+      <trans-unit id="intermediate_ricochet">
+        <source>ricochet</source>
+      </trans-unit>
+      <trans-unit id="final_ricochet">
+        <source>ricochet</source>
+      </trans-unit>
+      <trans-unit id="armor_not_pierced">
+        <source>bounce</source>
+      </trans-unit>
+      <trans-unit id="armor_pierced_no_damage">
+        <source>blocked</source>
+      </trans-unit>
+      <trans-unit id="turret">
+        <source>turret</source>
+      </trans-unit>
+      <trans-unit id="hull">
+        <source>hull</source>
+      </trans-unit>
+      <trans-unit id="chassis">
+        <source>chassis</source>
+      </trans-unit>
+      <trans-unit id="Hit percent">
+        <source>Hit percent</source>
+      </trans-unit>
+      <trans-unit id="Damage (assisted / own)">
+        <source>Damage (assisted / own)</source>
+      </trans-unit>
+      <trans-unit id="BR_xpCrew">
+        <source>crew</source>
+      </trans-unit>
+      <trans-unit id="Friend">
+        <source>Friend</source>
+      </trans-unit>
+      <trans-unit id="Ignored">
+        <source>Ignored</source>
+      </trans-unit>
+      <trans-unit id="unknown">
+        <source>unknown</source>
+      </trans-unit>
+      <trans-unit id="Fights">
+        <source>Fights</source>
+      </trans-unit>
+      <trans-unit id="Wins">
+        <source>Wins</source>
+      </trans-unit>
+      <trans-unit id="Data was updated at">
+        <source>Data was updated at</source>
+      </trans-unit>
+      <trans-unit id="Load statistics">
+        <source>Load statistics</source>
+      </trans-unit>
+      <trans-unit id="General stats">
+        <source>General stats</source>
+      </trans-unit>
+      <trans-unit id="Summary">
+        <source>Summary</source>
+      </trans-unit>
+      <trans-unit id="Avg level">
+        <source>Avg level</source>
+      </trans-unit>
+      <trans-unit id="WTR">
+        <source>WTR</source>
+      </trans-unit>
+      <trans-unit id="WN8">
+        <source>WN8</source>
+      </trans-unit>
+      <trans-unit id="EFF">
+        <source>EFF</source>
+      </trans-unit>
+      <trans-unit id="WGR">
+        <source>WGR</source>
+      </trans-unit>
+      <trans-unit id="updated">
+        <source>updated</source>
+      </trans-unit>
+      <trans-unit id="toWithSpaces">
+        <source> to </source>
+      </trans-unit>
+      <trans-unit id="avg">
+        <source>avg</source>
+      </trans-unit>
+      <trans-unit id="top">
+        <source>top</source>
+      </trans-unit>
+      <trans-unit id="draws">
+        <source>draws</source>
+      </trans-unit>
+      <trans-unit id="Maximum damage">
+        <source>Maximum damage</source>
+      </trans-unit>
+      <trans-unit id="Specific damage (Avg dmg / HP)">
+        <source>Specific damage (Avg dmg / HP)</source>
+      </trans-unit>
+      <trans-unit id="Capture points">
+        <source>Capture points</source>
+      </trans-unit>
+      <trans-unit id="Defence points">
+        <source>Defence points</source>
+      </trans-unit>
+      <trans-unit id="Filter">
+        <source>Filter</source>
+      </trans-unit>
+      <trans-unit id="Extra data (WoT 0.8.8+)">
+        <source>Extra data (WoT 0.8.8+)</source>
+      </trans-unit>
+      <trans-unit id="Average battle time">
+        <source>Average battle time</source>
+      </trans-unit>
+      <trans-unit id="Average battle time per day">
+        <source>Average battle time per day</source>
+      </trans-unit>
+      <trans-unit id="Battles after 0.8.8">
+        <source>Battles after 0.8.8</source>
+      </trans-unit>
+      <trans-unit id="Average experience">
+        <source>Average experience</source>
+      </trans-unit>
+      <trans-unit id="Average experience without premium">
+        <source>Average experience without premium</source>
+      </trans-unit>
+      <trans-unit id="Average distance driven per battle">
+        <source>Average distance driven per battle</source>
+      </trans-unit>
+      <trans-unit id="Average woodcuts per battle">
+        <source>Average woodcuts per battle</source>
+      </trans-unit>
+      <trans-unit id="Average damage assisted">
+        <source>Average damage assisted</source>
+      </trans-unit>
+      <trans-unit id="    by tracking">
+        <source>    by tracking</source>
+      </trans-unit>
+      <trans-unit id="    by spotting">
+        <source>    by spotting</source>
+      </trans-unit>
+      <trans-unit id="Average HE shells fired (splash)">
+        <source>Average HE shells fired (splash)</source>
+      </trans-unit>
+      <trans-unit id="Average HE shells received (splash)">
+        <source>Average HE shells received (splash)</source>
+      </trans-unit>
+      <trans-unit id="Average penetrations per battle">
+        <source>Average penetrations per battle</source>
+      </trans-unit>
+      <trans-unit id="Average hits received">
+        <source>Average hits received</source>
+      </trans-unit>
+      <trans-unit id="Average penetrations received">
+        <source>Average penetrations received</source>
+      </trans-unit>
+      <trans-unit id="Average ricochets received">
+        <source>Average ricochets received</source>
+      </trans-unit>
+      <trans-unit id="better than">
+        <source>better than</source>
+      </trans-unit>
+      <trans-unit id="PutOwnCrew">
+        <source>Put own crew</source>
+      </trans-unit>
+      <trans-unit id="PutBestCrew">
+        <source>Put best crew</source>
+      </trans-unit>
+      <trans-unit id="PutClassCrew">
+        <source>Put same class crew</source>
+      </trans-unit>
+      <trans-unit id="PutPreviousCrew">
+        <source>Put previous crew</source>
+      </trans-unit>
+      <trans-unit id="DropAllCrew">
+        <source>Drop all crew</source>
+      </trans-unit>
+      <trans-unit id="noSkills">
+        <source>No skills</source>
+      </trans-unit>
+      <trans-unit id="gun_reload_time/actual">
+        <source>Actual gun reload time</source>
+      </trans-unit>
+      <trans-unit id="view_range/base">
+        <source>base</source>
+      </trans-unit>
+      <trans-unit id="view_range/actual">
+        <source>actual</source>
+      </trans-unit>
+      <trans-unit id="view_range/stereoscope">
+        <source>with stereoscope</source>
+      </trans-unit>
+      <trans-unit id="radio_range/base">
+        <source>base</source>
+      </trans-unit>
+      <trans-unit id="radio_range/actual">
+        <source>actual</source>
+      </trans-unit>
+      <trans-unit id="lowAmmo">
+        <source>Low ammo</source>
+      </trans-unit>
+      <trans-unit id="shootingRadius">
+        <source>Shooting radius</source>
+      </trans-unit>
+      <trans-unit id="pitchLimitsSide">
+        <source>Elevation arc (side)</source>
+      </trans-unit>
+      <trans-unit id="pitchLimitsRear">
+        <source>Elevation arc (rear)</source>
+      </trans-unit>
+      <trans-unit id="terrainResistance">
+        <source>Terrain resistance (hard/medium/soft)</source>
+      </trans-unit>
+      <trans-unit id="gravity">
+        <source>Gravity</source>
+      </trans-unit>
+      <trans-unit id="shellSpeed">
+        <source>Shell speed</source>
+      </trans-unit>
+      <trans-unit id="general">
+        <source>General</source>
+      </trans-unit>
+      <trans-unit id="armor">
+        <source>Armor</source>
+      </trans-unit>
+      <trans-unit id="firepower">
+        <source>Firepower</source>
+      </trans-unit>
+      <trans-unit id="mobility">
+        <source>Mobility</source>
+      </trans-unit>
+      <trans-unit id="crew">
+        <source>Crew</source>
+      </trans-unit>
+      <trans-unit id="(m/sec)">
+        <source>(m/sec)</source>
+      </trans-unit>
+      <trans-unit id="(sec)">
+        <source>(sec)</source>
+      </trans-unit>
+      <trans-unit id="(m)">
+        <source>(m)</source>
+      </trans-unit>
+      <trans-unit id="Squad battle tiers">
+        <source>Squad battle tiers</source>
+      </trans-unit>
+      <trans-unit id="Squad tanks battle tiers difference">
+        <source>Squad tanks battle tiers difference</source>
+      </trans-unit>
+      <trans-unit id="Vehicle">
+        <source>Vehicle</source>
+      </trans-unit>
+      <trans-unit id="Battle tiers">
+        <source>Battle tiers</source>
+      </trans-unit>
+      <trans-unit id="Type">
+        <source>Type</source>
+      </trans-unit>
+      <trans-unit id="Nation">
+        <source>Nation</source>
+      </trans-unit>
+      <trans-unit id="ussr">
+        <source>USSR</source>
+      </trans-unit>
+      <trans-unit id="germany">
+        <source>Germany</source>
+      </trans-unit>
+      <trans-unit id="usa">
+        <source>USA</source>
+      </trans-unit>
+      <trans-unit id="france">
+        <source>France</source>
+      </trans-unit>
+      <trans-unit id="uk">
+        <source>UK</source>
+      </trans-unit>
+      <trans-unit id="china">
+        <source>China</source>
+      </trans-unit>
+      <trans-unit id="japan">
+        <source>Japan</source>
+      </trans-unit>
+      <trans-unit id="czech">
+        <source>Czech</source>
+      </trans-unit>
+      <trans-unit id="poland">
+        <source>Poland</source>
+      </trans-unit>
+      <trans-unit id="sweden">
+        <source>Sweden</source>
+      </trans-unit>
+      <trans-unit id="italy">
+        <source>Italy</source>
+      </trans-unit>
+      <trans-unit id="HT">
+        <source>HT</source>
+      </trans-unit>
+      <trans-unit id="MT">
+        <source>MT</source>
+      </trans-unit>
+      <trans-unit id="LT">
+        <source>LT</source>
+      </trans-unit>
+      <trans-unit id="TD">
+        <source>TD</source>
+      </trans-unit>
+      <trans-unit id="SPG">
+        <source>SPG</source>
+      </trans-unit>
+      <trans-unit id="blownUp">
+        <source>Blown-up!</source>
+      </trans-unit>
+      <trans-unit id="ver/currentVersion">
+        <source>XVM {0} ({1})</source>
+      </trans-unit>
+      <trans-unit id="ver/newVersion">
+        <source>Update available:&lt;tab/&gt;&lt;a href='#XVM_SITE_DL#'&gt;&lt;font color='#00FF00'&gt;v{0}&lt;/font&gt;&lt;/a&gt;
+{1}</source>
+      </trans-unit>
+      <trans-unit id="xvmsvc/not_connected">
+        <source>&lt;font color='#FFFF00'&gt;no connection to XVM server&lt;/font&gt;</source>
+      </trans-unit>
+      <trans-unit id="token/services_unavailable">
+        <source>Network services unavailable.&amp;nbsp;&amp;nbsp;&lt;a href='#XVM_SITE_UNAVAILABLE#'&gt;&lt;font size='11'&gt;more info&lt;/font&gt;&lt;/a&gt;</source>
+      </trans-unit>
+      <trans-unit id="token/services_inactive">
+        <source>Network services inactive.&amp;nbsp;&amp;nbsp;&lt;a href='#XVM_SITE_INACTIVE#'&gt;&lt;font size='11'&gt;enable&lt;/font&gt;&lt;/a&gt;</source>
+      </trans-unit>
+      <trans-unit id="token/blocked">
+        <source>Status: &lt;font color='#FF0000'&gt;Blocked&lt;/font&gt;&amp;nbsp;&amp;nbsp;&lt;a href='#XVM_SITE_BLOCKED#'&gt;&lt;font size='11'&gt;more info&lt;/font&gt;&lt;/a&gt;</source>
+      </trans-unit>
+      <trans-unit id="token/active">
+        <source>Status:&lt;tab/&gt;&lt;font color='#00FF00'&gt;Active&lt;/font&gt;</source>
+      </trans-unit>
+      <trans-unit id="token/time_left">
+        <source>&lt;tab/&gt;&lt;font color='#EEEEEE'&gt;{0}d. {1}h. {2}m.&lt;/font&gt;</source>
+      </trans-unit>
+      <trans-unit id="token/time_left_warn">
+        <source>&lt;tab/&gt;&lt;font color='#EEEEEE'&gt;{0}d. {1}h. {2}m.&lt;/font&gt;
+&lt;tab/&gt;&lt;a href='#XVM_SITE#'&gt;Prolong&lt;/a&gt;</source>
+      </trans-unit>
+      <trans-unit id="token/unknown_status">
+        <source>Unknown status</source>
+      </trans-unit>
+      <trans-unit id="lobby/header/gold_locked_tooltip">
+        <source>Gold is locked</source>
+      </trans-unit>
+      <trans-unit id="lobby/header/gold_unlocked_tooltip">
+        <source>Gold is unlocked</source>
+      </trans-unit>
+      <trans-unit id="lobby/header/freexp_locked_tooltip">
+        <source>Free XP is locked</source>
+      </trans-unit>
+      <trans-unit id="lobby/header/freexp_unlocked_tooltip">
+        <source>Free XP is unlocked</source>
+      </trans-unit>
+      <trans-unit id="lobby/crew/enable_prev_crew">
+        <source>Automatically return crew</source>
+      </trans-unit>
+      <trans-unit id="lobby/crew/enable_prev_crew_tooltip">
+        <source>&lt;b&gt;&lt;font color='#FDF4CE'&gt;{{l10n:lobby/crew/enable_prev_crew}}&lt;/font&gt;&lt;/b&gt;
+Automatically return the crew that fought
+in this vehicle in the previous battle</source>
+      </trans-unit>
+      <trans-unit id="profile/xvm_xte_tooltip">
+        <source>&lt;b&gt;&lt;font color='#FDF4CE' size='16'&gt;xTE&lt;/font&gt;&lt;/b&gt;
+Per-vehicle efficiency
+More info at &lt;font color='#FDF4CE'&gt;https://modxvm.com/ratings/&lt;/font&gt;</source>
+      </trans-unit>
+      <trans-unit id="profile/xvm_xte_extended_tooltip">
+        <source>&lt;textformat tabstops='[20, 85, 140]'&gt;{{l10n:profile/xvm_xte_tooltip}}
+
+Reference values:
+		damage	frags
+	Current:	&lt;font color='#FDF4CE' size='14'&gt;{0}&lt;/font&gt;	&lt;font color='#FDF4CE' size='14'&gt;{1}&lt;/font&gt;
+	Average:	&lt;font color='#FDF4CE' size='14'&gt;{2}&lt;/font&gt;	&lt;font color='#FDF4CE' size='14'&gt;{3}&lt;/font&gt;
+	Top:	&lt;font color='#FDF4CE' size='14'&gt;{4}&lt;/font&gt;	&lt;font color='#FDF4CE' size='14'&gt;{5}&lt;/font&gt;</source>
+      </trans-unit>
+      <trans-unit id="Normal">
+        <source>Normal</source>
+      </trans-unit>
+      <trans-unit id="NormalTooltipHeader">
+        <source>Normal Vehicles</source>
+      </trans-unit>
+      <trans-unit id="NormalTooltipBody">
+        <source>Show/hide normal (non-premium) vehicles.</source>
+      </trans-unit>
+      <trans-unit id="NonElite">
+        <source>Non elite</source>
+      </trans-unit>
+      <trans-unit id="NonEliteTooltipHeader">
+        <source>Non Elite Vehicles</source>
+      </trans-unit>
+      <trans-unit id="NonEliteTooltipBody">
+        <source>Show/hide vehicles with not all modules and technical branches researched.</source>
+      </trans-unit>
+      <trans-unit id="CompleteCrew">
+        <source>Complete crew</source>
+      </trans-unit>
+      <trans-unit id="CompleteCrewTooltipHeader">
+        <source>Complete Crew</source>
+      </trans-unit>
+      <trans-unit id="CompleteCrewTooltipBody">
+        <source>Show/hide vehicles with complete crew.</source>
+      </trans-unit>
+      <trans-unit id="NoMaster">
+        <source>No master</source>
+      </trans-unit>
+      <trans-unit id="NoMasterTooltipHeader">
+        <source>No Master</source>
+      </trans-unit>
+      <trans-unit id="NoMasterTooltipBody">
+        <source>Show/hide vehicles without "Ace Tanker" mastery badge.</source>
+      </trans-unit>
+      <trans-unit id="ReserveFilter">
+        <source>Reserve</source>
+      </trans-unit>
+      <trans-unit id="ReserveFilterTooltipHeader">
+        <source>Reserve</source>
+      </trans-unit>
+      <trans-unit id="ReserveFilterTooltipBody">
+        <source>Show/hide reserved vehicles.</source>
+      </trans-unit>
+      <trans-unit id="check_reserve_menu">
+        <source>Set as reserve</source>
+      </trans-unit>
+      <trans-unit id="uncheck_reserve_menu">
+        <source>Uncheck Reserve label</source>
+      </trans-unit>
+      <trans-unit id="reserve_confirm_title">
+        <source>Hide tank</source>
+      </trans-unit>
+      <trans-unit id="reserve_confirm_message">
+        <source>Are you sure you want to mark the tank as reserve? It will be available via filters in carousel.</source>
+      </trans-unit>
+      <trans-unit id="Used slots">
+        <source>Used slots</source>
+      </trans-unit>
+      <trans-unit id="Network services unavailable">
+        <source>Network services unavailable</source>
+      </trans-unit>
+      <trans-unit id="Error loading comments">
+        <source>Error loading comments</source>
+      </trans-unit>
+      <trans-unit id="Error saving comments">
+        <source>Error saving comments</source>
+      </trans-unit>
+      <trans-unit id="Comments disabled">
+        <source>Comments disabled</source>
+      </trans-unit>
+      <trans-unit id="Edit data">
+        <source>Edit data</source>
+      </trans-unit>
+      <trans-unit id="Nick">
+        <source>Nick</source>
+      </trans-unit>
+      <trans-unit id="Group">
+        <source>Group</source>
+      </trans-unit>
+      <trans-unit id="Comment">
+        <source>Comment</source>
+      </trans-unit>
+      <trans-unit id="Destroyed">
+        <source>Destroyed</source>
+      </trans-unit>
+      <trans-unit id="No data">
+        <source>No data</source>
+      </trans-unit>
+      <trans-unit id="Not ready">
+        <source>Not ready</source>
+      </trans-unit>
+      <trans-unit id="Hide with honors">
+        <source>Hide with honors</source>
+      </trans-unit>
+      <trans-unit id="Started">
+        <source>Started</source>
+      </trans-unit>
+      <trans-unit id="Incomplete">
+        <source>Incomplete</source>
+      </trans-unit>
+      <trans-unit id="XVM config reloaded">
+        <source>XVM config reloaded</source>
+      </trans-unit>
+      <trans-unit id="Config file xvm.xc was not found, using the built-in config">
+        <source>Config file xvm.xc was not found, using the built-in config</source>
+      </trans-unit>
+      <trans-unit id="Error loading XVM config">
+        <source>Error loading XVM config</source>
+      </trans-unit>
+      <trans-unit id="bootcamp_workaround_title">
+        <source>Warning</source>
+      </trans-unit>
+      <trans-unit id="bootcamp_workaround_message">
+        <source>Currently XVM is not compatible with the "boot camp" game mode.
+
+To enter the "boot camp" mode, you must restart the World of Tanks client in safe mode, which does not load modifications.
+
+Do you want to restart World of Tanks without mods right now?</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
